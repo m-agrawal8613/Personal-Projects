@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="enter_name1">Enter Player One Name</string>
+    <string name="enter_name2">Enter Player Two Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name">Continue</string>
+    <string name="title_activity_game">Board</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
